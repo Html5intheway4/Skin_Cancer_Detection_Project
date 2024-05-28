@@ -17,7 +17,7 @@ This project focuses on developing an machine learning solution for detecting sk
 This project demonstrates the potential of deep learning in medical diagnostics, achieving competitive accuracy rates. By leveraging pre-trained models and fine-tuning them for specific tasks, it showcases the adaptability and power of CNNs in solving complex medical challenges.
 
 ### Real-World Application
-- **Mobile Integration**: Developed a user-friendly mobile application using the Flutter framework, integrating TensorFlow Lite for real-time inference on dermoscopic images captured via camera or uploaded from the gallery. This app enhances accessibility to skin cancer detection, providing instant results and recommendations for further medical evaluation.
+- **Mobile Integration**: Developed a user-friendly mobile application using the Flutter framework, integrating TensorFlow Lite for real-time inference on dermoscopic images captured via camera or uploaded from the gallery. This app enhances accessibility to skin cancer detection, providing instant results and recommendations for further medical evaluation. [🔗](https://github.com/Html5intheway4/skin_cancer_detection)
 <p float="left">
   <img src="https://github.com/Html5intheway4/Skin_Cancer_Detection_Project/assets/69881519/783e977f-6e9a-4b9f-8a9b-7a5a22c590bc" alt="Screenshot 2" width="200"/>
   <img src="https://github.com/Html5intheway4/Skin_Cancer_Detection_Project/assets/69881519/7489bce0-427d-4982-80b1-b8ac3f2e5fa4" alt="Screenshot 1" width="200"/>
